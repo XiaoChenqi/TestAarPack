@@ -1,0 +1,3 @@
+rootProject.name='TestAarPack'
+include ':app'
+include ':aartest1'
